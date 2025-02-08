@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.de770f5e.css",
-    "main.js": "/Portfolio/static/js/main.581e16a8.js",
+    "main.js": "/Portfolio/static/js/main.f2e21b17.js",
     "static/js/415.f3233506.chunk.js": "/Portfolio/static/js/415.f3233506.chunk.js",
     "static/js/787.b98c23e5.chunk.js": "/Portfolio/static/js/787.b98c23e5.chunk.js",
     "static/media/logo.png": "/Portfolio/static/media/logo.3e897dc379ba8060118c.png",
     "static/media/amazon_prime_powerbi.png": "/Portfolio/static/media/amazon_prime_powerbi.a2e26c6dd092a6814cbf.png",
+    "static/media/sore_resume_jan.pdf": "/Portfolio/static/media/sore_resume_jan.eeb5e5c7dc02ce0b3432.pdf",
     "static/media/sore_image.jpg": "/Portfolio/static/media/sore_image.c353daccacb9d76433c8.jpg",
     "static/media/spotify.png": "/Portfolio/static/media/spotify.15da634d6263182b539c.png",
     "static/media/mysql_employment.png": "/Portfolio/static/media/mysql_employment.8694e366ffaab30703ff.png",
     "static/media/amazon_laptop.png": "/Portfolio/static/media/amazon_laptop.46f9908345b8482ec21c.png",
-    "static/media/resume.pdf": "/Portfolio/static/media/resume.d9622beb1ff358270424.pdf",
     "static/media/sore_about.jpg": "/Portfolio/static/media/sore_about.96753ff09af4fc3fb775.jpg",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/avatar.svg": "/Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Portfolio/index.html",
     "main.de770f5e.css.map": "/Portfolio/static/css/main.de770f5e.css.map",
-    "main.581e16a8.js.map": "/Portfolio/static/js/main.581e16a8.js.map",
+    "main.f2e21b17.js.map": "/Portfolio/static/js/main.f2e21b17.js.map",
     "415.f3233506.chunk.js.map": "/Portfolio/static/js/415.f3233506.chunk.js.map",
     "787.b98c23e5.chunk.js.map": "/Portfolio/static/js/787.b98c23e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de770f5e.css",
-    "static/js/main.581e16a8.js"
+    "static/js/main.f2e21b17.js"
   ]
 }
